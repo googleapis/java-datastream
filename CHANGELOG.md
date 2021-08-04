@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/googleapis/java-datastream/compare/v0.1.0...v0.2.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#25](https://www.github.com/googleapis/java-datastream/issues/25)) ([9a703f6](https://www.github.com/googleapis/java-datastream/commit/9a703f6da21d33f849f78a7757e4607cdf0cab7f))
+
 ## 0.1.0 (2021-07-08)
 
 
