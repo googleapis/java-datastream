@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/java-datastream/compare/v0.2.1...v0.3.0) (2021-09-24)
+
+
+### Features
+
+* Remove use of deprecated gradle command in java README ([#1196](https://www.github.com/googleapis/java-datastream/issues/1196)) ([#46](https://www.github.com/googleapis/java-datastream/issues/46)) ([ca3ada0](https://www.github.com/googleapis/java-datastream/commit/ca3ada051a7dd170af22a2879ad11d430ed23170))
+
+
+### Bug Fixes
+
+* **datastream:** Change a few resource pattern variables from camelCase to snake_case ([#47](https://www.github.com/googleapis/java-datastream/issues/47)) ([d5f2e39](https://www.github.com/googleapis/java-datastream/commit/d5f2e3947d88aa91aa563112771767f9a6e9fd96))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.2.0 ([#50](https://www.github.com/googleapis/java-datastream/issues/50)) ([36fe6f8](https://www.github.com/googleapis/java-datastream/commit/36fe6f893a30f0ccb44914c0241af370f2221eac))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.2.1 ([#58](https://www.github.com/googleapis/java-datastream/issues/58)) ([55b9ecc](https://www.github.com/googleapis/java-datastream/commit/55b9eccf5254281f5ab96bf25f4a5952e34a691e))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.3.0 ([#62](https://www.github.com/googleapis/java-datastream/issues/62)) ([cbe1e55](https://www.github.com/googleapis/java-datastream/commit/cbe1e551685f84dedacfa1ff978ee42768f869f3))
+
 ### [0.2.1](https://www.github.com/googleapis/java-datastream/compare/v0.2.0...v0.2.1) (2021-08-24)
 
 
