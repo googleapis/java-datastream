@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.3.1](https://github.com/googleapis/java-datastream/compare/v0.3.0...v0.3.1) (2022-01-04)
+
+
+### Bug Fixes
+
+* **java:** run Maven in plain console-friendly mode ([#1301](https://github.com/googleapis/java-datastream/issues/1301)) ([#93](https://github.com/googleapis/java-datastream/issues/93)) ([6a74b69](https://github.com/googleapis/java-datastream/commit/6a74b69ad51e7e713ca2ac821fec3358f4828c8b))
+
 ## [0.3.0](https://www.github.com/googleapis/java-datastream/compare/v0.2.1...v0.3.0) (2021-12-06)
 
 
