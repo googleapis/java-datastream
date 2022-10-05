@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/googleapis/java-datastream/compare/v1.2.1...v1.2.2) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([32275f1](https://github.com/googleapis/java-datastream/commit/32275f1e9a77c2cd448c42e3baf1308cd7b920db))
+
 ## [1.2.1](https://github.com/googleapis/java-datastream/compare/v1.2.0...v1.2.1) (2022-10-03)
 
 
